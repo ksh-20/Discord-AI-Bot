@@ -71,7 +71,3 @@ Use nodemon (optional, auto-restarts bot when code changes):
 npm install -g nodemon
 nodemon index.js
 ```
-
-## 🎥 Tutorial Source
-This project was inspired by:
-👉 How to Make a Discord AI Chatbot with OpenAI (PedroTech)
